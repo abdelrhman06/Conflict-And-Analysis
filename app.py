@@ -10,6 +10,9 @@ This tool provides:
 - Conflict analysis for **L1** and **L2**
 - Attendance breakdown (Present/Absent)
 - Conflict analysis by **Governorate**
+ This application was developed by **Abdelrahman Salah**.
+Designed for the **Connect** and **Physical** teams.
+Part of Almentor
 """)
 
 uploaded_file = st.file_uploader("Upload the Excel file", type=["xlsx"])
